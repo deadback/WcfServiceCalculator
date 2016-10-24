@@ -31,6 +31,5 @@ namespace WcfServiceCalculator
         {
             return a / b;
         }
-
     }
 }
